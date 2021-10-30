@@ -4,4 +4,4 @@
 - :gem: Bulding computers is my hobby
 - 🚘 I am a huge car lover
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw39mAOKZU0Q_rEz13NewOGj&ust=1635703754864000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDgmbzd8vMCFQAAAAAdAAAAABAD "Logo Title Text 2"
